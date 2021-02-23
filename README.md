@@ -1,0 +1,2 @@
+# mygitclass
+Understand Git 
